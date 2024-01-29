@@ -1,3 +1,3 @@
 # Spokane Rust User Group
 
-![](/static/logo.png)
+![](static/logo.png)
