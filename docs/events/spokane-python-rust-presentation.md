@@ -7,7 +7,7 @@ description: "Spokane Rust will be hosting a special presentation at the Spokane
 
 _February 20th, 2024_ | [Find Spokane Rust on Meetup! :fontawesome-brands-meetup:](https://www.meetup.com/spokane-rust/) | [Join Spokane Python on Meetup! :fontawesome-brands-meetup:](https://www.meetup.com/python-spokane/)
 
-<img src="/img/rust_python_alliance.png" width="720" />
+![](../img/rust_python_alliance.png)
 
 The organizers of Spokane Rust will be announcing the upcoming Spokane Rust User Group meetup and showcasing a special Python-related presentation! Are you interested in Rust, Python, or integrating Rust development into your Python workflow? We'll show you how to do that with PyO3! Join us on February 20th of 2024 for this special event signifying the launch of the Spokane Rust User Group!
 
