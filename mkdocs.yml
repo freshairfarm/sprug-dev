@@ -13,10 +13,9 @@ nav:
   - "Learning Resources": "resources/resources.md"
   - "New Attendee Questionnaire": "questionnaire/questionnaire.md"
   - "Events":
+    - "Present at Spokane Rust": "events/present.md"
     - "Spokane Rust at Python": "events/spokane-python-rust-presentation.md"
     - "Spokane Rust Kick-Off": "events/spokane-rust-kickoff.md"
-  - "Blogs":
-    - "blogs/submit-a-blog.md"
 
 markdown_extensions:
   - admonition

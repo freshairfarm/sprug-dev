@@ -7,7 +7,7 @@ At the Spokane Rust User Group, there is no expectation of understanding what Ru
 
 !!! note annotate "Found something better or covering topics we're not including?"
 
-    Rust succesfully led a largely successful campaign in 2018 to serve up new and intriguing intermediate Rust learning resources.
+    Rust led a largely successful campaign in 2018 to serve up new and intriguing intermediate Rust learning resources.
     The effects of this campaign echo into this day, and Rust has become one of the best language to jump into in terms of learning resources!
     
     Of course, we here at Spokane Rust can't capture and vet every tutorial and book created.
