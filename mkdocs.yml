@@ -1,4 +1,4 @@
-site_name: Spokane Rust User Group
+site_name: Spokane Rust
 site_url: https://www.spokanerust.com/
 
 plugins:
@@ -19,6 +19,7 @@ theme:
   palette:
     - scheme: default
       primary: custom
+      accent: black
 # theme: 
 #  name: null
 #  custom_dir: "theme/"
