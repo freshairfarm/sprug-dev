@@ -1,5 +1,7 @@
 ---
-title: Code of Conduct
+hide:
+  - navigation
+  - title
 ---
 
 We adhere to the [Rust Code of Conduct](https://www.rust-lang.org/policies/code-of-conduct#:~:text=We%20are%20committed%20to%20providing,nationality%2C%20or%20other%20similar%20characteristic.) as it's listed on the official website.

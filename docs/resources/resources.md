@@ -1,19 +1,11 @@
 ---
-title: "Rust Learning Resources"
+hide:
+  - navigation
+  - title
 description: "Are you just starting your Rust journey or looking for new material to consume? This is the place to find it!"
 ---
 
 At the Spokane Rust User Group, there is no expectation of understanding what Rust is and we're happy to help newcomers to the language learn! This is a list we've _compiled_ of some of the best Rust tutoring and information there is that we're aware of.
-
-!!! note annotate "Found something better or covering topics we're not including?"
-
-    Rust led a largely successful campaign in 2018 to serve up new and intriguing intermediate Rust learning resources.
-    The effects of this campaign echo into this day, and Rust has become one of the best language to jump into in terms of learning resources!
-    
-    Of course, we here at Spokane Rust can't capture and vet every tutorial and book created.
-    If you've come across a learning resource you find interesting, something indispensable to your learning of the Rust language, or would like to create a resource yourself - please get in touch with the organizers of the Spokane Rust User Group to have it added!
-
-
 
 ## [The Rustlang Book :material-link-box-variant-outline:](https://doc.rust-lang.org/book/)
 
@@ -35,10 +27,18 @@ Are you struggling in the in-between stages of beginner and intermediate or inte
 
 Interested in bridging the gap between your previous systems programming experience in C or C++ and the new concepts introduced by Rust? Programming Rust will help you to understand performance and safety using Rust by teaching using your existing knowledge in systems programming!
 
-## [No Boilerplate (on YouTube) :material-link-box-variant-outline:](https://www.youtube.com/@NoBoilerplate)
+## [No Boilerplate :fontawesome-brands-youtube:](https://www.youtube.com/@NoBoilerplate)
 
 Are you a visual learner? Or maybe it just doesn't stick when the narrator doesn't have a British accent? No Boilerplate is here to help with his excellent videos encouraging the use of Rust, including much of the high-level purview that defines our personal relationship and satisification with Rust and programming in general.
 
-## [Logan Smith of _noisecode (on YouTube) :material-link-box-variant-outline:](https://www.youtube.com/@_noisecode)
+## [Logan Smith of _noisecode :fontawesome-brands-youtube:](https://www.youtube.com/@_noisecode)
 
 For those of us who prefer the classical American pronunciation of words such as eggplant and wrath, there is also an option with Logan Smith. His comparisons with C++ and C assist those of us already familiar with some systems programming to learn how we might do better with Rust.
+
+!!! note annotate "Found something helpful or covering topics we're not including?"
+
+    Rust led a largely successful campaign in 2018 to serve up new and intriguing intermediate Rust learning resources.
+    The effects of this campaign echo into this day, and Rust has become one of the best language to jump into in terms of learning resources!
+    
+    Of course, we here at Spokane Rust can't capture and vet every tutorial and book created.
+    If you've come across a learning resource you find interesting, something indispensable to your learning of the Rust language, or would like to create a resource yourself - please get in touch with the organizers of the Spokane Rust User Group to have it added!
