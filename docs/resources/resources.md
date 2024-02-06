@@ -29,7 +29,7 @@ Interested in bridging the gap between your previous systems programming experie
 
 ## [Rust Design Patterns :material-link-box-variant-outline:](https://rust-unofficial.github.io/patterns/)
 
-Rust is not a Object-Oriented language, and that presents an interesting challenge when attempting to implement traditional object-oriented design patterns. Rust Design Patterns helps a developer implement design patterns that they might be familiar with in other object-oriented languages, in Rust. 
+To call Rust an object-oriented programming language isn't entirely accurate, and that presents an interesting challenge when attempting to implement traditional object-oriented design patterns. Rust Design Patterns presents design patterns that you're familiar with and how to adapt them to Rust, helping you strengthen your foundational Rust knowledge. With this book as your guide, it won't take long before you're comfortable enough to implement these common patterns in Rust from memory!
 
 ## [No Boilerplate :fontawesome-brands-youtube:](https://www.youtube.com/@NoBoilerplate)
 
